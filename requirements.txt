@@ -1,5 +1,5 @@
-pytest
-pytest-cov
-pylint
-black
-ipython
+pytest==9.0.3
+pytest-cov==7.1.0
+pylint==4.0.5
+black==26.5.1
+ipython==9.13.0
