@@ -7,9 +7,9 @@ def more_goodbye():
     return "bye"
 
 
-if __name__ == "__main__":
-    more_hello()
-    more_goodbye()
+#if __name__ == "__main__":
+#    more_hello()
+#    more_goodbye()
 
 # This is nonsense code that generates a warning
 # var = 1
