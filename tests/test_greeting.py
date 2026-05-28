@@ -2,4 +2,4 @@ from greeting import my_name
 
 
 def test_my_name():
-    assert "My name is: Shelly" == my_name("Sharif")
+    assert "My name is: Sharif" == my_name("Sharif")
