@@ -8,3 +8,4 @@ ipdb==0.13.13
 torch
 numpy 
 pandas
+scikit-learn
